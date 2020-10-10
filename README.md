@@ -1,12 +1,8 @@
 ### Hi there, I'm Ömer Çaylan
 
 ## 👋 I'm Developer and Embedded System Engineer!
-- 📕 I'm on way to becoming an old school programer, If you have an idea, a question or a problem, feel free to contact
-- 🔭 I’m currently working on a GO and C++
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: Video games, Archaeology and Unnecessary Jobs
+-  📕 I'm on way to becoming an old school programer, If you have an idea, a question or a problem, feel free to contact
+-  ⚡ Fun fact: Video games, Archaeology and Unnecessary Jobs
 
 ### Connect with me:
 
