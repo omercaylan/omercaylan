@@ -1,5 +1,3 @@
-Tabii ki! İşte düzenlenmiş GitHub profilinizin İngilizce versiyonu:
-
 ## 👋 Hi there, I'm Ömer Çaylan
 
 ### 📚 I'm a Software Developer and Embedded Systems Engineer!
